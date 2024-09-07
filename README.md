@@ -3,6 +3,5 @@ Intro for myself.
 >[!IMPORTANT]
 >Preparing for NCEE
 
-:parting-face:
-[Personal Blog]
-(https://sugar.pub/)
+:parting_face:
+This is my [Personal Blog](https://sugar.pub/).
